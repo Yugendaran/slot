@@ -2,10 +2,10 @@
 
 ## Date: 04/04/2024
 
-## AIM
+## AIM:
 To write a html webpage page to display your slot timetable.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Create a Django-admin Interface.
 
@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 ### STEP 6
 Execute the program using runserver command.
 
-## PROGRAM
+## PROGRAM:
 ```
 <html>
 <head>
@@ -137,12 +137,12 @@ Execute the program using runserver command.
 </html>
 ```
 
-## OUTPUT
-![image](https://github.com/Yugendaran/slot/assets/128135616/e461abf9-5148-4748-86c6-ed8b8fa70512)
+## OUTPUT:
+![image](https://github.com/Yugendaran/slot/assets/128135616/d4a68701-54a2-4a0f-bbf3-c74a225f6d6f)
 
 ![image](https://github.com/Yugendaran/slot/assets/128135616/dc9b70ec-de8a-4fb8-a496-ceae32e3f732)
 
 
 
-## RESULT
+## RESULT:
 The program for creating slot timetable using basic HTML tags is executed successfully.
